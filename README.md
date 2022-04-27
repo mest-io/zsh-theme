@@ -1,10 +1,10 @@
+<br />
 <p align="center" width="650">
   <img align="center" width="650" src="https://raw.githubusercontent.com/mest-io/zsh-theme/main/logo.png" alt="mest">
 </p>
-
 <br />
 
-## ZSH Theme for MEST team
+## ZSH theme for MEST team
 
 ### Usage
 
